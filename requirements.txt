@@ -1,0 +1,16 @@
+git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
+
+onnxruntime==1.8.0
+openpyxl==3.0.9
+gluonnlp==0.10.0
+pandas==1.2.0
+tqdm==4.63.1
+
+torch >= 1.8.1
+transformers >= 4.8.2
+sentencepiece >= 0.1.91
+
+mxnet==1.8.0
+numpy
+flask==2.0.3
+
